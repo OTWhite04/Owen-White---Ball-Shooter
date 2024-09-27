@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Ballshooter_Level2_OwenW.unity
     guid: 0710650d55f72bb45ac4528ee9471680
   - enabled: 0
-    path: Assets/Scenes/Ballshooter_Level5_OwenW.unity
+    path: Assets/Scenes/Ballshooter_Level4_OwenW.unity
     guid: 0afaa08395387564cbe76675b2ebdab4
   - enabled: 0
     path: Assets/Scenes/Ballshooter_Level4_OwenWhite.unity
